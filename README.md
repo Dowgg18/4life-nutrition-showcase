@@ -91,8 +91,11 @@ A loja já rodou sob o domínio do fornecedor, por cortesia, e desfazer isso cus
 
 Next.js (App Router) · React · TypeScript · Tailwind CSS · Medusa v2 · PostgreSQL · Docker · Traefik · GitHub Actions · Vindi · Melhor Envio · Bling · Evolution API · Resend · Claude
 
-Veja também a [plataforma de creators da 4Life](https://github.com/Dowgg18/4life-creators-showcase).
+## Outros cases
+
+- [Creator Army da 4Life](https://github.com/Dowgg18/4life-creators-showcase): programa de influenciadores com cupom e comissão apurada sozinha.
+- [Câmara Brasil-Rússia](https://github.com/Dowgg18/camara-brasil-russia-showcase): portal em português, russo e inglês com redação assistida por IA.
 
 ---
 
-Douglas Domingos · [github.com/Dowgg18](https://github.com/Dowgg18)
+Douglas Domingos · [github.com/Dowgg18](https://github.com/Dowgg18) · [LinkedIn](https://www.linkedin.com/in/douglas-c-domingos/)
